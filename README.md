@@ -1,4 +1,9 @@
-<h1 align="center">👋Hi ✨I'm Bipasha Chakraborty✨</h1>
+<h1 align="center">👋Hi!!!
+✨I'm Bipasha Chakraborty✨</h1>
+
+
+
+
 <h3 align="center">🌻As an aspiring computer science student, I'm passionate about tackling challenges through innovative solutions, driven by a keen interest in algorithms, data structures, and software development to shape a better future.🌻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipasha-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="bipasha-chakraborty" /> </p>

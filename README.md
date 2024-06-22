@@ -1,15 +1,5 @@
 <h1 align="center">👋Hi !!
 ✨I'm Bipasha Chakraborty✨</h1>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <img src="https://images.app.goo.gl/hEu7vCH32PJyPYhv5" alt="Image from Google">
-</body>
-</html>
 
 <h3 align="center">🌻As an aspiring computer science student, I'm passionate about tackling challenges through innovative solutions, driven by a keen interest in algorithms, data structures, and software development to shape a better future.🌻</h3>
 

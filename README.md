@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bipasha-chakraborty" alt="bipasha-chakraborty" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA and C++**
 
 - 📫 How to reach me **bipashachakraborty49@gmail.com**
 

@@ -1,8 +1,8 @@
 <h1 align="center">👋Hi !!
 ✨I'm Bipasha Chakraborty✨</h1>
-<img align="center" alt="Coding width="500" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
-
+<img align="center"  alt="500" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 <h3 align="center">🌻As an aspiring computer science student, I'm passionate about tackling challenges through innovative solutions, driven by a keen interest in algorithms, data structures, and software development to shape a better future.🌻</h3>
+<img align="center"  alt="500" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipasha-chakraborty&label=Profile%20views&color=0e75b6&style=flat" alt="bipasha-chakraborty" /> </p>
 

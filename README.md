@@ -12,6 +12,12 @@
 
 - 📫 How to reach me **bipashachakraborty49@gmail.com**
 
+  ## ✍️ Random Dev Quote
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</p>
+
+
 <h3 align="left">📩Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bipasha-chakraborty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bipasha-chakraborty/" height="30" width="40" /></a>
@@ -26,3 +32,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipasha-chakraborty&show_icons=true&locale=en" alt="bipasha-chakraborty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipasha-chakraborty&" alt="bipasha-chakraborty" /></p>
+
+## 📍 My Holo Pins
+[![An image of @bipashachakraborty Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/@bipashachakraborty)](https://holopin.io/@bipashachakraborty)
+
+
